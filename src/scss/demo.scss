@@ -1,0 +1,61 @@
+body{
+  text-align: center;
+  font-size: 25px;
+}
+img{
+  margin: 2px auto;
+}
+.page-body {
+  font-size: 1.1em;
+  }
+h1{
+ font-size: 1.5em;//од юоді
+ font-weight: 700;//bolt
+ text-transform: uppercase;//всі з великой
+ letter-spacing: .2em;//ростой між букв
+ //border: 3px solid #000;//рамка
+ padding: 15px;
+ margin: 20px;//отступ
+}
+
+.adres{
+  line-height: 1em;
+  font-size: 1.5em;
+  margin: 30px;
+}
+
+#adres-id{
+  color: rgb(0, 29, 29);
+}
+
+element.style {
+  min-width: 600px;
+  min-width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h2{
+  font-size: 1.2em;//од юоді
+  font-weight:500;//bolt
+  text-transform: uppercase;//всі з великой
+  letter-spacing: .2em;//ростой між букв
+  //border: 3px solid #000;//рамка
+  padding: 15px;
+  margin: 4px;//отступ
+ }
+
+ .seti {
+   a{
+   margin: 0 5px;
+   }
+ }
+ img{
+   display: inline;
+ }
+
+ .FOTO{
+  width: 60px; 
+  height: 60px;
+  margin: 25px;
+ }
